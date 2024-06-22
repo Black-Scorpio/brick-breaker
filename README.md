@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Brick Breaker
 
 ## Description
@@ -63,4 +62,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 =======
 # brick-breaker
 Created brick breaker from scratch!
->>>>>>> a19cf9ec19c2ab4f6cca116cb2d3b73b4c1b98d3
+
