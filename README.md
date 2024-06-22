@@ -59,7 +59,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 ## Author
 
 - **Scorpio Gentles** - [Black-Scorpio](https://github.com/Black-Scorpio)
-=======
+
 # brick-breaker
 Created brick breaker from scratch!
 
